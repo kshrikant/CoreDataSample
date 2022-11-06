@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  CoreDataSample
 //
-//  Created by Kanakatti Shrikant on 03/11/22.
+//  Created by Kanakatti Shrikant on 06/11/22.
 //
 
 import UIKit
